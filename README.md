@@ -1,1 +1,1 @@
-# Stock_Market_Prediction_using_ML_tenchinque
+# Stock_Market_Prediction_using_ML_technique
